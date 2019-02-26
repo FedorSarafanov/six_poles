@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1551098198 "six_poles.tex" "six_poles.pdf" "six_poles" 1551098201
+["pdflatex"] 1551186098 "six_poles.tex" "six_poles.pdf" "six_poles" 1551186103
   "c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1540835628 3308 eee81981029f67083258db36df06e523 ""
   "c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1540835626 3304 6a543c07045572737981351171e0505e ""
   "c:/Users/osabio/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1540835621 3312 d199be9bd555944e2403193d58a0256a ""
@@ -291,17 +291,17 @@
   "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1540990963 4218686 c58581623dc700ee6be6edfac165c6dc ""
   "c:/texlive/2018/texmf.cnf" 1540834531 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "data/tab1.tsv" 1551036435 362 b540dd4f9e51408ecffa742455a10ae7 ""
-  "data/tab2.tsv" 1551037163 368 db5b215686d9fe925848c4ea85104903 ""
+  "data/tab2.tsv" 1551179045 368 db5b215686d9fe925848c4ea85104903 ""
   "data/tab3.tsv" 1551037905 369 63d38e5779c40d9a9cd2c7ffb064cc13 ""
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
   "ris/ris1.pdf" 1549548649 42200 aaf6b2a54f272b9f4506df1bedba81cd ""
-  "six_poles.aux" 1551098201 12073 70e2ffd943eca75e5e5be304d9cb0527 ""
-  "six_poles.out" 1551098201 4761 9d6d9354d15e1ea0102768f57d1b7982 ""
-  "six_poles.tex" 1551098196 37819 dfe950251d895987bf21b4192a850758 ""
-  "six_poles.toc" 1551098201 8063 4b582ce8f477bb1fd9966fa007a0c5e7 ""
+  "six_poles.aux" 1551186102 12072 564e9372171f48c2353e7777c2e022c7 ""
+  "six_poles.out" 1551186102 4761 9d6d9354d15e1ea0102768f57d1b7982 ""
+  "six_poles.tex" 1551186087 33796 92e632686da4f57cc91444f888e20443 ""
+  "six_poles.toc" 1551186102 8062 eeabdd4d03e646aff472fe10b6ffc1a2 ""
   (generated)
-  "six_poles.aux"
-  "six_poles.toc"
-  "six_poles.log"
-  "six_poles.out"
   "six_poles.pdf"
+  "six_poles.toc"
+  "six_poles.out"
+  "six_poles.log"
+  "six_poles.aux"
